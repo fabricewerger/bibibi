@@ -1,5 +1,3 @@
-import Pill from "@/src/ui/components/content/Pill";
-import Button from "@/src/ui/components/inputs/Button";
 import Hero from "@/src/ui/components/zoom/Hero";
 import Image from "next/image";
 
